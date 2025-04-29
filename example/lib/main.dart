@@ -13,7 +13,6 @@ class ExampleApp extends StatelessWidget {
     return MaterialApp(
       title: 'Igris Demo',
       theme: AppTheme.lightTheme(),
-      darkTheme: AppTheme.darkTheme(),
       themeMode: ThemeMode.system,
       home: const ComponentShowcase(),
     );

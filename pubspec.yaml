@@ -2,8 +2,8 @@ name: igris
 description: "A modern, customizable Flutter component library with consistent styling."
 version: 0.0.1
 homepage: "https://andrenk.me"
-repository: "https://github.com/yourusername/igris"
-documentation: "https://github.com/yourusername/igris#readme"
+repository: "https://github.com/jamiespecs/igris"
+documentation: "https://github.com/jamiespecs/igris"
 
 environment:
   sdk: ^3.7.2
