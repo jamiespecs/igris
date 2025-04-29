@@ -1,6 +1,9 @@
-name: igris_example
-description: Example project for the igris package
-publish_to: "none"
+name: igris
+description: "A modern, customizable Flutter component library with consistent styling."
+version: 0.0.1
+homepage: "https://github.com/jamiespecs/igris"
+repository: "https://github.com/jamiespecs/igris"
+documentation: "https://github.com/jamiespecs/igris#readme"
 
 environment:
   sdk: ^3.7.2
@@ -9,13 +12,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  igris:
-    path: ../
+  flutter_svg: ^2.1.0
+  google_fonts: ^6.2.1
+  marquee: ^2.3.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-
-flutter:
-  uses-material-design: true
+  build_runner: ^2.4.15

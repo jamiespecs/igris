@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.0.1
+## 0.0.1 - April 29, 2025
 
 * Initial release with core UI components:
   * Buttons (standard, wide FAB, mini FAB)
